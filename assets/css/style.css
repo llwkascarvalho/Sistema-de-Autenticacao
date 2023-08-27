@@ -1,0 +1,14 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    list-style: none;
+}
+
+body {
+    background: linear-gradient(to right,#01004b, #0c0a86c4, #0e28bb83);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
