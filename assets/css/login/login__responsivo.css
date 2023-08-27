@@ -1,9 +1,0 @@
-@media (max-width: 620px){
-    .conteudo__img {
-        display: none;
-    }
-
-    .container__login {
-        border-bottom-right-radius: 1em;
-    }
-}
