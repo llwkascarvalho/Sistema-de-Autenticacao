@@ -32,7 +32,7 @@ body {
 }
 
 .container {
-    background-color: whitesmoke;
+    background-color: rgb(13, 31, 70);
     padding: 6px;
     width: 350px;
     height: 450px;
@@ -53,6 +53,10 @@ form {
     height: 400px;
 }
 
+span {
+    color: white;
+}
+
 .buttonsForm {
     margin-top: 40px;
     position: relative;
@@ -66,7 +70,7 @@ form {
     border: none;
     position: relative;
     padding: 10px 29px;
-    color: rgb(161, 154, 184);
+    color: #dfdde6;
 }
 
 .btnColor {
